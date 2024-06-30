@@ -19,5 +19,9 @@ This work is supported with a grant from the Algorand Foundation. We are deeply 
 
 For more information on the grant, see the [Algorand Forum xGov-183](https://forum.algorand.org/t/xgov-183-choice-coin-compliance/11761).
 
+____________________________
+
+<img width="280" alt="about copy" src="https://github.com/ChoiceCoin/algo-compliance/assets/87402354/06d2a8a8-aadf-4609-a36a-122daab5130b">
+
 
 
