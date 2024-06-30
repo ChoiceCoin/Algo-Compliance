@@ -1,7 +1,5 @@
 # Choice Compliance Database
 
-Sub-databases
-
 sub-database (variables x samples) (total data points)
 _____________
 - Cases (7 x 15) (105)
