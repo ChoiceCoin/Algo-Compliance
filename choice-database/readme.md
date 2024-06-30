@@ -1,6 +1,7 @@
 # Choice Compliance Database
 
 sub-database (variables x samples) (total data points)
+
 _____________
 - Cases (7 x 15) (105)
 - Enforcement (13 x 159) (2,067)
