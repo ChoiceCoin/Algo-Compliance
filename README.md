@@ -1,5 +1,5 @@
 # Algo-Compliance
-Repository for Algorand Compliance Software and Database Development.
+Repository for Compliance Software and Database Development.
 
 # Information on database
 
