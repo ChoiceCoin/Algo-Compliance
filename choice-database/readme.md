@@ -1,8 +1,9 @@
 # Choice Compliance Database
 
 Sub-databases
+
+sub-database (variables x samples) (total data points)
 _____________
-- Title (variables x samples) (total data points)
 - Cases (7 x 15) (105)
 - Enforcement (13 x 159) (2,067)
 - Legreg (3 x 8) (24)
