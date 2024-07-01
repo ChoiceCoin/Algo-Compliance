@@ -15,7 +15,7 @@ For referrence, the database uses a coding scheme for several Boolean variables 
 
 # AlgorandGrant
 
-This work is supported with a grant from the Algorand Foundation. We are deeply grateful to the Algorand community for continuing to support this important work, which aids the Algorand network by providing cutting edge legal informatics for U.S. securities compliance.
+This work is supported with a grant from the [Algorand Foundation](https://algorand.co/). We are deeply grateful to the Algorand community for continuing to support this important work, which aids the Algorand network by providing cutting edge legal informatics for U.S. securities compliance.
 
 For more information on the grant, see the [Algorand Forum xGov-183](https://forum.algorand.org/t/xgov-183-choice-coin-compliance/11761).
 
