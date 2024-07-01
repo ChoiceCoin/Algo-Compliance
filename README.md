@@ -1,7 +1,7 @@
 # Algo-Compliance
 Repository for Compliance Software and Database Development.
 
-# Information on database
+# The Choice Database
 
 The [Choice Database](https://github.com/ChoiceCoin/algo-compliance/tree/main/choice-database) has 5 sub-databases. The main database is the SEC Enforcement sub-database, which contains over 2,000 data points relating to SEC enforcement actions relating to blockchain technology, digital assets, and cryptocurrency. The 5 sub-databases are:
 
