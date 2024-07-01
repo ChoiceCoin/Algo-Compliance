@@ -13,6 +13,8 @@ The Choice Database has 5 sub-databases. The main database is the SEC Enforcemen
 
 For referrence, the database uses a coding scheme for several Boolean variables where 1 means yes or present and 0 means no or absent. Additionally, many of the variables use natrual langugage text.
 
+The SEC Enforcement sub-database contains information relating to SEC enforcement actions. The Cases sub-database contains information relating to important federal securities cases and common precedents in the cryptocurrency space. The Legreg sub-database contains information about statutes that regulate the blockchain industry. The Litigation sub-database contains information relating to private blockchain and cryptocurrency litigation. The Secondary Sources sub-database contains information relating to academic articles on the topic of digital asset regulation. 
+
 # AlgorandGrant
 
 This work is supported with a grant from the Algorand Foundation. We are deeply grateful to the Algorand community for continuing to support this important work, which aids the Algorand network by providing cutting edge legal informatics for U.S. securities compliance.
