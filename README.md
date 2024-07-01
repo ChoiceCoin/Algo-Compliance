@@ -5,13 +5,11 @@ Repository for Compliance Software and Database Development.
 
 The Choice Database has 5 sub-databases. The main database is the SEC Enforcement sub-database, which contains over 2,000 data points relating to SEC enforcement actions relating to blockchain technology, digital assets, and cryptocurrency. The 5 sub-databases are:
 
-1. SEC Enforcement
-2. Cases
-3. Legislation and Regulation (Legreg)
-4. Litigation
-5. Secondary Sources
-
-The SEC Enforcement sub-database contains information relating to SEC enforcement actions. The Cases sub-database contains information relating to important federal securities cases and common precedents in the cryptocurrency space. The Legreg sub-database contains information about statutes that regulate the blockchain industry. The Litigation sub-database contains information relating to private blockchain and cryptocurrency litigation. The Secondary Sources sub-database contains information relating to academic articles on the topic of digital asset regulation. 
+1. *SEC Enforcement.* The SEC Enforcement sub-database contains information relating to SEC enforcement actions.
+2. *Cases.* The Cases sub-database contains information relating to important federal securities cases and common precedents in the cryptocurrency space. 
+3. *Legislation and Regulation (Legreg).* The Legreg sub-database contains information about statutes that regulate the blockchain industry.
+4. *Litigation.* The Litigation sub-database contains information relating to private blockchain and cryptocurrency litigation.
+5. *Secondary Sources.* The Secondary Sources sub-database contains information relating to academic articles on the topic of digital asset regulation.
 
 For referrence, the database uses a coding scheme for several Boolean variables where 1 means yes or present and 0 means no or absent. Additionally, many of the variables use natrual langugage text.
 
